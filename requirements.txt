@@ -1,2 +1,3 @@
 whisper
 ffmpeg-python
+openai-whisper

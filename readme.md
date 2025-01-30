@@ -30,4 +30,6 @@ sudo apt install ffmpeg
 
 ## 4. Ejecutar el script
 
-python nombre_del_script.py
+Cargar el archivo que se quiere transcribir a la carpeta grabacion, y ejecutar el archivo audio.py, una vez procesado la transcripcion quedara en la carpeta transcripcion con el nombre del archivo, se sugiere borrar los archivos o moverlos a otro lugar, una vez procesados.
+
+
